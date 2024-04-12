@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1712869544 source:c:\users\richa\documents\desktop\codigo del laboratorio de programacion\oswindows\main.cpp
+	<iostream>
+	"OSWindows.h"
+
+1712869544 c:\users\richa\documents\desktop\codigo del laboratorio de programacion\oswindows\include\oswindows.h
+	<stdio.h>
+	<iostream>
+	<string.h>
+	"iApariencia.h"
+
+1712928423 c:\users\richa\documents\desktop\codigo del laboratorio de programacion\oswindows\include\iapariencia.h
+
+1712917961 source:c:\users\richa\documents\desktop\codigo del laboratorio de programacion\oswindows\src\oswindows.cpp
+	"OSWindows.h"
+
+1712928309 source:c:\users\richa\documents\desktop\codigo del laboratorio de programacion\oswindows\src\iapariencia.cpp
+	"iApariencia.h"
+

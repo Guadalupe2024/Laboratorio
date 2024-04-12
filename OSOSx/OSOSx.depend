@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1712919270 source:c:\users\richa\documents\desktop\codigo del laboratorio de programacion\ososx\src\iapariencia.cpp
+	"iApariencia.h"
+
+1712920265 c:\users\richa\documents\desktop\codigo del laboratorio de programacion\ososx\include\iapariencia.h
+
+1712920658 source:c:\users\richa\documents\desktop\codigo del laboratorio de programacion\ososx\main.cpp
+	<iostream>
+	<OSOSx.h>
+
+1712920609 c:\users\richa\documents\desktop\codigo del laboratorio de programacion\ososx\include\ososx.h
+	<stdio.h>
+	<OSOSx.h>
+	<iostream>
+	<string.h>
+	"iApariencia.h"
+
+1712920609 source:c:\users\richa\documents\desktop\codigo del laboratorio de programacion\ososx\src\ososx.cpp
+	"OSOSx.h"
+
+1712920658 source:c:\users\richa\documents\desktop\codigo del laboratorio de programacion\guia4lb\ososx\main.cpp
+	<iostream>
+	<OSOSx.h>
+
+1712920609 c:\users\richa\documents\desktop\codigo del laboratorio de programacion\guia4lb\ososx\include\ososx.h
+	<stdio.h>
+	<OSOSx.h>
+	<iostream>
+	<string.h>
+	"iApariencia.h"
+
+1712920265 c:\users\richa\documents\desktop\codigo del laboratorio de programacion\guia4lb\ososx\include\iapariencia.h
+
+1712919270 source:c:\users\richa\documents\desktop\codigo del laboratorio de programacion\guia4lb\ososx\src\iapariencia.cpp
+	"iApariencia.h"
+
+1712920609 source:c:\users\richa\documents\desktop\codigo del laboratorio de programacion\guia4lb\ososx\src\ososx.cpp
+	"OSOSx.h"
+

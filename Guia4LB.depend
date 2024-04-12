@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1712916841 source:c:\users\richa\documents\desktop\codigo del laboratorio de programacion\guia4lb\src\iapariencia.cpp
+	"iApariencia.h"
+
+1712917391 c:\users\richa\documents\desktop\codigo del laboratorio de programacion\guia4lb\include\iapariencia.h
+
+1712917538 source:c:\users\richa\documents\desktop\codigo del laboratorio de programacion\guia4lb\src\oslinux.cpp
+	"OSLinux.h"
+
+1712917119 c:\users\richa\documents\desktop\codigo del laboratorio de programacion\guia4lb\include\oslinux.h
+	<stdio.h>
+	<iostream>
+	<string.h>
+	"iApariencia.h"
+
+1712917132 source:c:\users\richa\documents\desktop\codigo del laboratorio de programacion\guia4lb\main.cpp
+	<iostream>
+	"OSLinux.h"
+
